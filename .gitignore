@@ -1,0 +1,4 @@
+.idea
+vendor
+test.csv
+.php-cs-fixer.cache
